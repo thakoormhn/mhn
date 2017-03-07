@@ -1,1 +1,2 @@
 Learning Git
+Appended second line
